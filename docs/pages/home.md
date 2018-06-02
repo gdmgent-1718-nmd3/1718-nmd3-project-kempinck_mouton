@@ -11,4 +11,4 @@ Wie zijn we?
 ------------
 
  - Yasve Kempinck, 2CMO-PD
- - Brent Mouton, 2CMO-GD
+ - Brent Mouton, 2CMO-PD
