@@ -1,10 +1,8 @@
 ---
-layout   : default
-permalink: design/smartwatch-app/wireflow/
+layout   : ui-style-guide
+permalink: design/ui-style-guide/formulieren/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Wireflow
+title: Formulieren
 ---
-
-<img src="../../../img/">

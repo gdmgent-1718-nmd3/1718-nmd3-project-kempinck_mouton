@@ -10,13 +10,19 @@
 // Color system
 //
 
-$cyan:    #17a2b8 !default;
-$primary: $cyan;
+
+$dark:    #2B3141 !default;
+$darkred: #9E4446;
+$red:     #FA544C;
+$light:   #DCE6EF;
+$primary: $dark;
+$secundary: $darkred;
 
 // Fonts
 //
 // Font, line-height, and color for body text, headings, and more.
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
 
-$font-family-base: Merriweather, serif;
+$font-family-base: Didact Gothic, serif;

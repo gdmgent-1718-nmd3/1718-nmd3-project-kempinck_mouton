@@ -1,10 +1,8 @@
 ---
-layout   : default
-permalink: design/smartwatch-app/wireflow/
+layout   : ui-style-guide
+permalink: design/ui-style-guide/knoppen/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Wireflow
+title: Knoppen
 ---
-
-<img src="../../../img/">

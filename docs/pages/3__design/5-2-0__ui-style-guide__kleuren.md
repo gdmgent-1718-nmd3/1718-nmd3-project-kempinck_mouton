@@ -1,10 +1,8 @@
 ---
-layout   : default
-permalink: design/smartwatch-app/wireflow/
+layout   : ui-style-guide
+permalink: design/ui-style-guide/kleuren/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Wireflow
+title: Kleuren
 ---
-
-<img src="../../../img/">
