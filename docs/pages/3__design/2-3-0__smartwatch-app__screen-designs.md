@@ -6,4 +6,3 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
-looool
