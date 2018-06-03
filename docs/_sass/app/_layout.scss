@@ -28,3 +28,17 @@ body {
 a {
   color: $red;
 }
+
+.img-large {
+  width: 100%;
+}
+
+.img-small {
+  width: 100%;
+  max-width: 300pt;
+}
+
+.img-smaller {
+  width: 100%;
+  max-width: 150pt;
+}

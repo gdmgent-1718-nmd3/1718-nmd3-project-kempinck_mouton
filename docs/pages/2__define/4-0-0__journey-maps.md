@@ -6,5 +6,5 @@ published: true
 # ─────────────────────
 title: Journey Maps
 ---
-<img src="../../img/34133843_1004291513078344_3742711244210044928_n.png">
-<img src="../../img/34321864_1004291516411677_8085579868080701440_n.png">
+<img class="img-large" src="../../img/journey map 1.png">
+<img class="img-large" src="../../img/journey map 2.png">

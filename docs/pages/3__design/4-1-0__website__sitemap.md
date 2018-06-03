@@ -7,4 +7,4 @@ published: true
 title: Sitemap
 ---
 
-<img src="../../../img/Schermafbeelding 2018-06-02 om 23.24.17.png">
+<img class="img-small" src="../../../img/Schermafbeelding 2018-06-02 om 23.24.17.png">

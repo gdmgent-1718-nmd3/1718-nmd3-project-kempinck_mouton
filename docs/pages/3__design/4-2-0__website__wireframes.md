@@ -7,4 +7,4 @@ published: true
 title: Wireframes
 ---
 
-<img src="../../../img/wireframe.png">
+<img class="img-large" src="../../../img/wireframe.png">
