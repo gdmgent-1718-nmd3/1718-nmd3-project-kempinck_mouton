@@ -28,6 +28,18 @@ Je kunt in- en uitzoomen op de apps met de Digital Crown, de ronde draaiknop aan
 - Barometrische hoogtemeter
 - Gyroscoop
 
+<h5>Besturingssysteem</h5>
+WatchOS<br>
+- Besturingssysteem van de Apple Watch, het slimme horloge van Apple. 
+- Voor het eerst verschenen op 24 april 2015.
+- Meest recente versie is watchOS 4.
+- Eerstvolgende versie watchOS 5 staat gepland voor najaar 2018.
+watchOS is te vergelijken met iOS op een iPhone of iPad.<br>
+
+<h5>Functies</h5>
+De Apple Watch heeft twee belangrijke schermen: de wijzerplaat en het startscherm voor de apps. Dit startscherm ziet eruit als een honingraatpatroon. Als je wilt kun je de appiconen extra groot weerge- ven. Vanaf watchOS 4 is er ook een lijstweergave voor apps.<br>
+Je kunt in- en uitzoomen op de apps met de Digital Crown, de ronde draaiknop aan de zijkant van de horlogekast. Ook kun je rondbladeren door je vinger over het scherm te vegen. Met de platte zijknop open je je favoriete of meest recente apps.<br>
+
 <h5>Ontwerprichtlijnen</h5>
 - Gegevens weergeven die nuttig en relevant zijn.
 - Bepaal welke gegevens moeten worden weergegeven en wanneer deze moeten worden weergegeven
@@ -69,13 +81,27 @@ Je kunt in- en uitzoomen op de apps met de Digital Crown, de ronde draaiknop aan
 - iBeacon voor microlocatie-toepassingen
 - Touch-ID sensor
 
-<h5>Ontwerprichtlijnen</h5>
+<h5>Besturingssysteem</h5>
+IOS<br>
+- Besturingssysteem van de iPhone. 
+- Voor het eerst verschenen op 9 jan 2007.
+- Meest recente versie is IOS 11.
+- Eerstvolgende versie IOS 12 staat gepland voor najaar 2018.
+<br>
 
+<h5>Functies</h5>
+- Met augmented reality kunnen apps meeslepende, aantrekkelijke ervaringen bieden die realistische virtuele objecten naadloos laten overvloeien met de echte wereld.
+- Gevulde vormen en dikkere lijndiktes houden pictogrammen minimaal, terwijl het contrast wordt verbeterd.
+- Uw app kan worden geïntegreerd met de biometrische beveiligingsfuncties van het systeem om een ​​veilige, vertrouwde authenticatie te bieden die mensen vertrouwen.
+- Apps die worden uitgevoerd op ondersteunde apparaten kunnen draadloos gegevens lezen van elektronische tags die zijn gekoppeld aan real-world objecten.
+
+<h5>Ontwerprichtlijnen</h5>
 - Zorg voor hoge resolutie foto's voor je app
 - zorg voor een volledig scherm experience
 - Houd rekening met de statusbalkhoogte.
 - Vermijd het expliciet plaatsen van interactieve bedieningselementen helemaal onderaan het scherm en in hoeken.
 - Gebruik de knoppen voor de volledige breedte
+- Om de duidelijkheid en context te verbeteren tijdens het browsen en zoeken, kunnen apps navigatiebalken met grote, vetgedrukte titels implementeren.
 
 <img class="img-small" src="../../img/250x270_1.png">
 
