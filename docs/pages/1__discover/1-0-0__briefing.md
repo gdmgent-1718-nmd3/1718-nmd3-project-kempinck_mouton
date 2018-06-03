@@ -20,6 +20,6 @@ Teamleden
 
 Gekozen Museum
 --------------
-Het museum <a href="https://www.smak.be" target="blank"> S.M.A.K.</a> te Gent.
+Wij hebben gekozen  voor het museum <a href="https://www.smak.be" target="blank"> S.M.A.K.</a> in Gent.
 
 <img class="img-large" src="../../img/smak.jpg">

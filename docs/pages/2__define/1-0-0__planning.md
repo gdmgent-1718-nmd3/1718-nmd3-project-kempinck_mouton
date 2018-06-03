@@ -10,7 +10,7 @@ title: Planning
 <table>
     <tr>
         <th>Datum</th>
-        <th>To do</th>
+        <th>Te doen</th>
     </tr>
     <tr>
         <th>12/2</th>
