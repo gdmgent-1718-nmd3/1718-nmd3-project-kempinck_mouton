@@ -61,12 +61,11 @@ vragenlijst in te vullen (zie bijlage).<br>
 
 <h5>Zou een smartphone handig z n in het S.M.A.K.?</h5>
 - Handig voor de weg, maar klein scherm voor uitleg.
-
-<h4>Samengevat: </h4>
-<h5>High-level concept:</h5>
-De app moet interactief, gemakkelijk, duidelijk, informatief zijn.
-Het S.M.A.K. = hedendaagse kunst
-We zijn vertrokken vanuit de problemen die de mensen van de vragenlijsten en wijzelf ondervonden in het museum. De bezoeker moet een extra belevenis krijgen door het gebruik van de app maar er moet wel nog altijd duidelijkheid zijn over alles. Dit door een duidelijk kleurenpallet, font(s) en foto’s.
-Het S.M.A.K. heeft niet echt vaste routes, je weet op het einde niet of je alles gezien hebt. Via de app zouden we routes kunnen maken. Er staat ook niet veel informatie bij het kunstwerk. De  lmpjes waren in andere talen, via de app zou je die dan kunnen beluisteren in je eigen taal.
+<br>
+<br>
+De app moet interactief, gemakkelijk, duidelijk, informatief zijn.<br>
+Het S.M.A.K. = hedendaagse kunst<br>
+We zijn vertrokken vanuit de problemen die de mensen van de vragenlijsten en wijzelf ondervonden in het museum. De bezoeker moet een extra belevenis krijgen door het gebruik van de app maar er moet wel nog altijd duidelijkheid zijn over alles. Dit door een duidelijk kleurenpalet, font(s) en foto’s.<br>
+Het S.M.A.K. heeft niet echt vaste routes, je weet op het einde niet of je alles gezien hebt. Via de app zouden we routes kunnen maken. Er staat ook niet veel informatie bij het kunstwerk. De filmpjes waren in andere talen, via de app zou je die dan kunnen beluisteren in je eigen taal.
 
 
