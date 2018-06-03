@@ -99,8 +99,11 @@
   time: 3
   task: Offline productiedossier maken
 -
-  time: 5
+  time: 7
   task: Maken productiedossier online en aanpassingen
 -
   time: 1.5
   task: Laatste tests en aanpassingen online dossier
+-
+  time: 1.75
+  task: Laatste controle en kleine aanpassingen

@@ -10,11 +10,11 @@ We hebben voor het museum S.M.A.K (hedendaagse kunst) gekozen te Gent. <br>
 
 Dit was onze ervaring:<br>
 
-Bij elk werk hing er een plaatje bij met ‘informatie’ over het werk. Maar dat vonden we niet altijd voldoende. Soms bleven we hier wat op onze honger zitten. Er stond meestal enkel de naam van het werk en wanneer het gemaakt werd ( met misschien een kleine info bij), dit zouden we via de app al kunnen aanpakken door via een scan systeem meer informatie te kunnen bekomen over het werk ( en dit ook in de gewenste taal).<br>
+Bij elk werk hing er een plaatje bij met ‘informatie’ over het werk. Maar dat vonden we niet altijd voldoende. Soms bleven we hier wat op onze honger zitten. Er stond meestal enkel de naam van het werk en wanneer het gemaakt werd ( met misschien een kleine info bij), dit zouden we via de app al kunnen aanpakken door via een scansysteem meer informatie te kunnen bekomen over het werk ( en dit ook in de gewenste taal).<br>
 
 Bij elke tentoonstelling/ zaal kon je een boekje nemen met een plannetje + uitleg over de werken. Dit vinden wij persoonlijk niet echt handig want wij liepen daar rond met een fototoestel, dus was het soms wat moeilijk om beiden te kunnen gebruiken. <br>
 
-Er is een verschil tussen musea met tentoonstelling en musea zonder tentoonstelling, In het S.M.A.K. heb je een vaste tentoonstelling en ..... bekijken hoe ik dit ga schrijven. Er waren een paar momenten dat we ergens liepen ( en zelf met de boekjes) en we niet goed wisten in welke tentoonstelling we nu aan het wandelen waren. Er was een moeilijk onderscheid tussen de verschillende zalen. Via kleuren zouden we hier duidelijkheid in kunnen brengen. Er kan dan ook bij alles wat met die tentoonstelling te maken heeft die kleur gebruikt worden. Wij denken dan bv. aan titels of info op de smartwatch/ smartphone-app, of aan de kleuren van het plannetje. <br>
+Er is een verschil tussen musea met tentoonstelling en musea zonder tentoonstelling, In het S.M.A.K. heb je een vaste tentoonstelling. Er waren een paar momenten dat we ergens liepen ( zelf met de boekjes) en we niet goed wisten in welke tentoonstelling we nu aan het wandelen waren. Er was een moeilijk onderscheid tussen de verschillende zalen. Via kleuren zouden we hier duidelijkheid in kunnen brengen. Er kan dan ook bij alles wat met die tentoonstelling te maken heeft die kleur gebruikt worden. Wij denken dan bv. aan titels of info op de smartwatch/ smartphone-app, of aan de kleuren van het plannetje. <br>
 
 Er was ook een plaats met een televisie en een boek, beiden in het Duits. Dit zou makkelijk op te lossen zijn met de app, het filmpje zou je al kunnen afspelen in je eigen taal. <br>
 

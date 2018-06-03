@@ -41,7 +41,17 @@ a {
 .img-smaller {
   width: 100%;
   max-width: 150pt;
-  border: 2px solid $light
+  border: 2px solid $light;
+  background-color: $light;
+  padding: 2px;
+  margin: 2px;
+}
+
+.border {
+  border: 5px solid $light;
+  background-color: $light;
+  padding: 2px;
+  margin: 2px;
 }
 
 
@@ -60,3 +70,4 @@ h4 {
   text-decoration: underline;
   color: $darkred;
 }
+

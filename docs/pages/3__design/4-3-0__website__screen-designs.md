@@ -7,4 +7,4 @@ published: true
 title: Screen Designs
 ---
 
-<img class="img-large" src="../../../img/visualdesign.png">
+<img class="img-large" src="../../../img/visual.png">
