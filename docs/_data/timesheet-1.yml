@@ -3,26 +3,122 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
--
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
--
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
--
   time: 1
-  task: Lorem ipsum sit dolor amet.
--
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  task: Bespreken opdracht en bepalen museum
 -
   time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  task: S.M.A.K. bezoeken
+-
+  time: 1.5
+  task: Eerste les brainstormen
+-
+  time: 1.5
+  task: Feedback en nog meer brainstormen + analyse 2de les
+-
+  time: 1
+  task: Vragenlijst opstellen
+-
+  time: 2
+  task: vragenlijst laten invullen + analyseren antwoorden
+-
+  time: 2
+  task: afwerken analyse
+-
+  time: 1
+  task: Technische analyse
+-
+  time: 1.5
+  task: info smartwatch opzoeken
+-
+  time: 2
+  task: Samen journey maps besproken en gemaakt
 -
   time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  task: Afwerken journey maps
 -
-  time: 100
-  task: Lorem ipsum sit dolor amet.
+  time: 1.5
+  task: Bepalen concept
+-
+  time: 2
+  task: Ideaboard
+-
+  time: 1.5
+  task: maken elevator pitch
+-
+  time: 2.5
+  task: 2 style tiles maken
+-
+  time: 0.5
+  task: bepalen welke smartphone en smartwatch we gaan gebruiken
+-
+  time: 2
+  task: Installaties voor productiedossier/ UI
+-
+  time: 1
+  task: Bespreken smartwatch app en wireflow op papier maken
+-
+  time: 1
+  task: Gebruikerstesten paper prototype
+-
+  time: 0.5
+  task: Feedback paper prototype en aanpassingen
+-
+  time: 2
+  task: Bespreken concept smartwatch app
+-
+  time: 0.75
+  task: Feedback smartwatch app en aanpassingen
+-
+  time: 1.5
+  task: Wireframes smartwatch app
+-
+  time: 2
+  task: Visual design smartwatch app
+-
+  time: 1
+  task: Bespreken mediatheek
+-
+  time: 1.5
+  task: Bespreken concept smartphone app
+-
+  time: 0.5
+  task: Feedback smartphone app en aanpassingen
+-
+  time: 2.5
+  task: Gebruikerstesten smartphone + aanpassingen
+-
+  time: 3.5
+  task: Wireframes Smartphone
+-
+  time: 1
+  task: Wireflow + aanpassingen wireframes
+-
+  time: 2
+  task: Visual Designs smartphone
+-
+  time: 1.5
+  task: Bespreken mediatheek
+-
+  time: 1.75
+  task: Bespreken concept website
+-
+  time: 1.5
+  task: Visual Designs website
+-
+  time: 1.5
+  task: Feedback en aanpassingen website
+-
+  time: 2
+  task: Samenkomen afwerking bespreken
+-
+  time: 1.5
+  task: Alles verzamelen 
+-
+  time: 1.5
+  task: Zoeken oplossen probleem online productiedossier/github/ UI
+-
+  time: 1.5
+  task: Verzamelen UI elementen
+-
+  time: 2.5
+  task: Offline productiedossier maken

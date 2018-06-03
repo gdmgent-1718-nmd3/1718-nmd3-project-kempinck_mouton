@@ -6,8 +6,7 @@ published: true
 # ─────────────────────
 title: Kleuren
 ---
-
-#2B3141
-#9E4446
-#FA544C
-#DCE6EF
+<div class="color1">#2B3141</div>
+<div class="color2">#9E4446</div>
+<div class="color3">#FA544C</div>
+<div class="color4">#DCE6EF</div>

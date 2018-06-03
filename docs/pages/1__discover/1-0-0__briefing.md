@@ -22,3 +22,4 @@ Gekozen Museum
 --------------
 Het museum <a href="https://www.smak.be" target="blank"> S.M.A.K.</a> te Gent.
 
+<img class="img-large" src="../../img/smak.jpg">

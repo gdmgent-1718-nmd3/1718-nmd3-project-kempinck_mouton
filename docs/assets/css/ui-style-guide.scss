@@ -4,3 +4,102 @@
 
 @import
   "ui-style-guide/main";
+
+
+  body {
+    background-color: $dark;
+    color: $light;
+    font-family: $font-family-base;
+  }
+
+
+input[type=text], select, textarea {
+  width: 250pt;
+  padding: 12px;
+  border: 1px solid #ccc;
+  resize: vertical;
+  margin: 10pt;
+  color: $darkred;
+}
+
+p {
+  margin-bottom: 50pt;
+}
+
+button {
+  background-color: $secundary;
+  border-radius:30pt;
+  padding: 10pt;
+  font-size: 12pt;
+  margin: 5pt;
+  color: $light;
+  font-family: $font-family-base;
+}
+
+div {
+  height: 50pt;
+  width: 50pt;
+  border: 1px solid $light;
+}
+.color1 {
+  background-color: #2B3141;
+}
+.color2 {
+  background-color: #9E4446;
+}
+.color3 {
+  background-color: #FA544C;
+}
+.color4{
+  background-color: #DCE6EF;
+  color: $dark;
+}
+
+h4 {
+  font-size: 22pt;
+  font-weight: bold;
+  text-decoration: underline;
+  color: $darkred;
+}
+
+
+.font {
+  font-size: 8pt;
+  margin-top: -45pt;
+}
+
+.headsmartwatch {
+  font-size: 24pt;
+}
+
+.subsmartwatch {
+  font-size: 18pt;
+}
+
+.tsmartwatch {
+  font-size: 12pt;
+}
+
+.headsmartphone {
+  font-size: 26pt;
+}
+
+.subsmartphone {
+  font-size: 20pt;
+}
+
+.tsmartphone {
+  font-size: 14pt;
+}
+
+.headwebsite {
+  font-size: 30pt;
+}
+
+.subwebsite {
+  font-size: 24pt;
+}
+
+.twebsite {
+  font-size: 16pt;
+}

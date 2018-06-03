@@ -21,6 +21,7 @@ Digital Prototype
 <img class="img-small" src="../../../img/gebruikerstest 7.jpg">
 <img class="img-small" src="../../../img/gebruikerstest 8.jpg">
 
+Eerst heb ik de gebruiker het prototype laten testen, om te kijken of de knoppen werkten en de wireflow goed zat. Na die hun opmerkingen heb ik de visual designs gemaakt en nog eens laten testen. 2x met de iPhone 8 zelf. Zodat ze hem ook in de hand hadden en op de ware grootte, om te zien of de knoppen niet te groot of te klein waren, en alles duidelijk was. 
 
 <h4>Conclusie gebruikerstest</h4>
 

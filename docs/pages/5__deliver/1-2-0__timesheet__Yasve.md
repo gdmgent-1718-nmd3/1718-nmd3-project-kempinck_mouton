@@ -1,10 +1,10 @@
 ---
 layout   : default
-permalink: deliver/timesheets/student-2/
+permalink: deliver/timesheets/Yasve/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Student 2
+title: Yasve
 ---
 {%- comment %}
 Vul de timesheet aan in het bestand `_data/timesheet-2.yml`

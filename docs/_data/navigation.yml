@@ -109,11 +109,11 @@
       # permalink: deliver/timesheets/
       children:
         -
-          title: Student 1
-          permalink: deliver/timesheets/student-1/
+          title: Brent
+          permalink: deliver/timesheets/Brent/
         -
-          title: Student 2
-          permalink: deliver/timesheets/student-2/
+          title: Yasve
+          permalink: deliver/timesheets/Yasve/
 # -
 #   title: Deploy
 #   # permalink: deploy/
