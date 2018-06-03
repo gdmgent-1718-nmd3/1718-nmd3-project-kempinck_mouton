@@ -24,7 +24,7 @@ De app zou interactief moeten zijn, maar dit kan ook gekoppeld worden aan inform
 
 Ook zouden de mensen nadien hun ‘gevoel’ moeten kwijt kunnen. We zouden kunnen werken met cijfers van 1-10 of met smileys wat mensen van hun bezoek vonden. Dit is ook informatie voor het museum zelf en denkt de bezoeker dat het museum rekening houdt met hun. <br>
 
-Uit onze vragen kwam ook dat niet iedereen een smartwatch heeft maar wel een smartphone, dus zou de app die we maken voor smartphone volledig onafhankelijk moeten kunnen gebruikt worden zonder de smartwatch, maar omgekeerd kan het wel.. bijvoorbeeld het bekijken van filmpjes op de smartwatch lijkt ons moeilijk.<br>
+Uit onze vragen kwam ook dat niet iedereen een smartwatch heeft maar wel een smartphone, dus zou de app die we maken voor smartphone volledig onafhankelijk moeten kunnen gebruikt worden zonder de smartwatch, maar omgekeerd kan het wel.. Bijvoorbeeld het bekijken van filmpjes op de smartwatch lijkt ons moeilijk.<br>
 
 
 We zouden al werken met 2 schermen waar de gebruiker (bijna) altijd naar kan terugkeren, deze zijn de profiel van de gebruiker en het overzicht met de kunstenaars/ tentoonstellingen. Deze zijn de centrale pagina’s. De knoppen hebben allemaal dezelfde stijl en zijn duidelijk te onderscheiden van de andere lay out.<br>
