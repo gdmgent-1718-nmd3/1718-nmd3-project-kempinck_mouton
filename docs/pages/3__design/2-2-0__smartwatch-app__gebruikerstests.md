@@ -15,6 +15,16 @@ Paper Prototype
 Gebruikerstests
 ---------------
 
+De test gebeurde met het Paper Prototype en de Wireflow op papier tegelijk. <br>
+
+- Welke info bij de routes?
+- Waar kom ik na ‘Hoe vond je uw bezoek?’
+- Badge ontvangen en wat erna? 
+- Badge verkeerd geschreven
+- Kruisje weg bij eerste scherm, gewoon swipen naar boven
+- Hoe weet ik wat welke route doet
+- Weinig schermen
+
 <img src="../../../img/34038782_1004226719751490_5359209481269936128_n.jpg">
 <img src="../../../img/34064649_1004227276418101_6388342851515711488_n.jpg">
 <img src="../../../img/34119740_1004227273084768_6255449240458231808_n.jpg">

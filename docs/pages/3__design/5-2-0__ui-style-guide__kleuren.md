@@ -6,3 +6,8 @@ published: true
 # ─────────────────────
 title: Kleuren
 ---
+
+#2B3141
+#9E4446
+#FA544C
+#DCE6EF
